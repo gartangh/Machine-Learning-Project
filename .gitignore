@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+features/
+test/
+train/
+validation/
+__pycache__/
+*.pickle
